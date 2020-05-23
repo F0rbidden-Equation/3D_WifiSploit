@@ -15,4 +15,7 @@
     airserv-ng -- Wireless card TCP/IP server which allows multiple application to use a wireless card.
     airtun-ng -- Virtual tunnel interface creator.
     packetforge-ng -- Create various type of encrypted packets that can be used for injection.
-
+### Aircrack-ng suite (unstable/experimental tools)
+    easside-ng -- Auto-magic tool which allows you to communicate to an WEP-encrypted Access Point without knowing the key.
+    tkiptun-ng -- Proof-of-concept implementation the WPA/TKIP attack: inject a few frames into a WPA TKIP network with QoS
+    wesside-ng -- Auto-magic tool which incorporates a number of techniques to seamlessly obtain a WEP key in minutes
