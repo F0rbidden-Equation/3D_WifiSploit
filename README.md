@@ -1,7 +1,7 @@
 Building ...
 
 ![wifi3D5](https://user-images.githubusercontent.com/59021489/80869872-1c440880-8ca3-11ea-9182-5743a2a02e2d.jpg)
-![Capture d’écran vidéo de 23-05-2020 19 33 18(1)](https://user-images.githubusercontent.com/59021489/82736814-9c9edc00-9d2c-11ea-9f55-004617ec93c9.gif)
+
 # Programs added in 3D wifiSploit
 ## paquets from aircrack-ng
 ###
